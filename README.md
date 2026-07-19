@@ -5,7 +5,8 @@ A modern and lightweight speedometer system built exclusively for the **BSRP Fra
 BSRP Speedometer provides a clean, responsive, and optimized vehicle HUD experience designed to integrate seamlessly with the BSRP ecosystem. Built with performance and customization in mind, it delivers essential vehicle information while maintaining smooth gameplay performance.
 
 ---
-📸 Preview <img width="258" height="205" alt="image" src="https://github.com/user-attachments/assets/1276a35a-0f66-4a65-a72e-9d70e3639018" />
+## 📸 Preview
+<img width="258" height="205" alt="image" src="https://github.com/user-attachments/assets/1276a35a-0f66-4a65-a72e-9d70e3639018" />
 
 
 ## 📌 Features
